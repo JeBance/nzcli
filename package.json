@@ -1,0 +1,28 @@
+{
+  "name": "nzcli",
+  "version": "1.0.5",
+  "description": "Class for checking arguments entered in the terminal for nzserver",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeBance/nzcli.git"
+  },
+  "keywords": [
+    "nz",
+    "cli",
+    "nzserver"
+  ],
+  "author": {
+    "name": "Oleg Prudkov",
+    "email": "oleg.prudkov@gmail.com",
+    "url": "https://jebance.github.io"
+  },
+  "license": "LGPL-3.0+",
+  "bugs": {
+    "url": "https://github.com/JeBance/nzcli/issues"
+  },
+  "homepage": "https://jebance.github.io/nzcli/"
+}
