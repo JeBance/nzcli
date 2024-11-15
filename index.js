@@ -17,7 +17,7 @@ class nzcli {
 		let args = arg.split('=');
 		try {
 			if (args[0].length > 0 && args[1].length > 0) {
-				this.parameters.args[0] = args[1];
+				this.parameters[args[0]] = args[1];
 			}
 		} catch(e) {
 			console.log(e);

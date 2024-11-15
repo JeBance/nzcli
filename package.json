@@ -1,6 +1,6 @@
 {
   "name": "nzcli",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Class for checking arguments entered in the terminal for nzserver",
   "main": "index.js",
   "scripts": {
